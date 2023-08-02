@@ -3,7 +3,7 @@
 Hello, 👋 \
 Carefinder allows users to search for hospitals within their region. Users can input their location or select from a list of nearby cities to find hospitals in their area. The platform will provide a list of hospitals and their respective contact details, including address, phone number, and email.
 ```
-Here's some notes about my submission:
+Here is some notes about my submission:
 
 1. A link to the project repository  https://github.com/itsadaeze/carefinder-app
 
