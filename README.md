@@ -33,7 +33,7 @@ Ugwu Adaeze
 # How to Contribute
 
 1. Clone the repository 
-$ git clone [https://github.com/itsadaeze/carefinder-app](https://github.com/itsadaeze/carefinder-app)
+$ git clone: [https://github.com/itsadaeze/carefinder-app](https://github.com/itsadaeze/carefinder-app)
 
 2. Change directory into the cloned folder and run the setup script
 $ cd carefinder-app
