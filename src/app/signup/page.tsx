@@ -1,3 +1,4 @@
+
 import LeftContainer from "../login/leftContainer";
 import RightContainer from "./rightContainer";
 
@@ -8,4 +9,4 @@ export default function SignUp() {
       <RightContainer />
     </div>
   );
-}
+  }

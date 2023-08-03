@@ -1,5 +1,5 @@
 import React from "react";
-import PlaceLocation from "../components/places/place";
+import PlaceLocation from "../components/places/place"
 import { AltSchoolImage } from "../../../assets/icons/altSchool";
 import Image from "next/image";
 import Link from "next/link";
