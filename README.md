@@ -7,7 +7,7 @@ Here is some notes about my submission:
 
 1. A link to the project repository  https://github.com/itsadaeze/carefinder-app
 
-2. A publicly live hosted URL of the challenge https://carefinder-app.vercel.app/ 
+2. A publicly live hosted URL of the challenge https://carefinder-app-itsadaeze.vercel.app/ 
 
 Thank you very much AltSchool Africa.
 Best regards
